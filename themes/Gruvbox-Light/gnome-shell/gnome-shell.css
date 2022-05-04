@@ -2254,9 +2254,9 @@ StEntry StLabel.hint-text,
   font-feature-settings: 'tnum';
   transition-duration: 250ms;
   font-size: 10.5pt;
-  margin: 2px 5px;
-  border: 1px solid rgba(249, 245, 215, 0.7);
-  border-radius: 15px;
+  margin: 0px 0px;
+  border-top: 1px solid rgba(249, 245, 215, 0.7);
+  border-radius: 0;
 }
 
 #panel .panel-corner {
